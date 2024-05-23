@@ -1,0 +1,48 @@
+#head {
+  font-style: normal;
+  color: rgb(7, 7, 34);
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  background-color: rgb(242, 242, 242);
+  align-items: center;
+}
+body {
+  background-color: aquamarine;
+}
+.title {
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+input {
+  margin-bottom: 10px;
+}
+form {
+  display: grid;
+  grid-column: 2;
+  font-size: larger;
+}
+
+a {
+  color: black;
+  border-radius: 5px;
+  padding: 10px;
+  border-color: black;
+  border: solid;
+  text-decoration: none;
+}
+#regs {
+  text-align: center;
+}
+.name {
+  display: flex;
+}
+.label {
+  width: 80px;
+}
